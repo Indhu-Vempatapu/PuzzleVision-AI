@@ -42,8 +42,8 @@ This project is an **AI-driven puzzle solver** for the classic 8-puzzle problem,
   ```
   ### 1️⃣ **Clone the Repository**
   ```
-  git clone https://github.com/Indhu-Vempatapu/PuzzleSolver-AI.git
-  cd PuzzleSolver-AI
+  git clone https://github.com/Indhu-Vempatapu/PuzzleVision-AI.git
+  cd PuzzleVision-AI
   ```
   ### 2️⃣ **Install Required Packages**
   ```
